@@ -1,0 +1,4 @@
+.env
+nwt.sqlite
+.chromadb/
+.chromadb_local/
